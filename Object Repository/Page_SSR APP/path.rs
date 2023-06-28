@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>ba34d42d-0a10-48ce-be55-7b3385aa91a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>5db15534-9455-4f53-aba0-9bbf39bd58ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>classname</name>
+      <type>Main</type>
+      <value>svg-base</value>
+      <webElementGuid>2640c255-f0ae-4cf2-bc2c-aad7d75863eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#1B55C0</value>
+      <webElementGuid>53f4fa8f-cc0a-457b-8e83-5dacb13dbefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M26 4h-3V3h-2v1H11V3H9v1H6a3 3 0 00-3 3v19a3 3 0 003 3h20a3 3 0 003-3V7a3 3 0 00-3-3zM6 6h3v1h2V6h10v1h2V6h3a1 1 0 011 1v2H5V7a1 1 0 011-1zm20 21H6a1 1 0 01-1-1V11h22v15a1 1 0 01-1 1zm-4-14h2v2h-2zM8 13h2v2H8zm7 0h2v2h-2zm7 5h2v2h-2zM8 18h2v2H8zm7 0h2v2h-2zm-7 5h2v2H8zm7 0h2v2h-2z</value>
+      <webElementGuid>68d48a8f-57d8-4c75-abab-0f1c886f25f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;full-width-background bg-ui-background-gray main-content lightmode&quot;]/div[@class=&quot;max-width-background pad-none&quot;]/div[@class=&quot;jsx-3186751771 history-container&quot;]/div[@class=&quot;full-width-background&quot;]/div[@class=&quot;row flex-wrap&quot;]/div[@class=&quot;row flex-wrap nopad mar-t-md mar-b-md pad-t-xs pad-b-xs&quot;]/div[@class=&quot;text-right grid-col-4&quot;]/div[@class=&quot;jsx-1884012448 searching&quot;]/a[@class=&quot;solo type-base    color-cobalt font-bold link-icon hover&quot;]/svg[@class=&quot;calendaricon&quot;]/path[1]</value>
+      <webElementGuid>26096de8-a644-4afd-9838-73f9492da9c8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

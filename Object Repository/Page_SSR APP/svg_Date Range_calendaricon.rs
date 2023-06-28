@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Date Range_calendaricon</name>
+   <tag></tag>
+   <elementGuidId>37d5bfc1-fb6e-4984-b495-f4f30bc67119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1f2ecaee-5b2b-4d90-9d78-b072622dea39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calendaricon </value>
+      <webElementGuid>0af60bfd-e89d-4993-ba17-89039005163c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>icon image</value>
+      <webElementGuid>8d5b2b27-ed9a-4158-9ec5-512c66ff41e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idx</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6d45812f-c67f-47b2-82a7-f343e7c81315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>050b7e61-9185-4274-a889-71577f241171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e57f63e1-23c4-4bbc-b004-9e0903ecde20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>774cc2cd-de9f-4d2e-8ec9-d1b210219644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>3fddb3cd-f66a-4efb-a3ab-c1b5661d05a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>b4f5e408-4ab1-46ae-84b5-417ff2131ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;full-width-background bg-ui-background-gray main-content lightmode&quot;]/div[@class=&quot;max-width-background pad-none&quot;]/div[@class=&quot;jsx-3186751771 history-container&quot;]/div[@class=&quot;full-width-background&quot;]/div[@class=&quot;row flex-wrap&quot;]/div[@class=&quot;row flex-wrap nopad mar-t-md mar-b-md pad-t-xs pad-b-xs&quot;]/div[@class=&quot;text-right grid-col-4&quot;]/div[@class=&quot;jsx-1884012448 searching&quot;]/a[@class=&quot;solo type-base    color-cobalt font-bold link-icon hover&quot;]/svg[@class=&quot;calendaricon&quot;]</value>
+      <webElementGuid>d0bba933-dc6e-4f32-a638-3db7a5dfa08e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1d625a5e-5278-4f0d-a06d-9dc3f5e06c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>50ca3099-28b9-47a0-849e-a5c6e2145a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See what changed'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>98f5d32c-2022-429e-b99e-6dd79f83fa20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account charges'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>e0db363d-4f18-4a68-9bd1-5f21930756c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
